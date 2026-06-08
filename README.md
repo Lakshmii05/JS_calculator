@@ -1,5 +1,9 @@
 # Calculator
 
+🔗 Live Demo
+
+https://lakshmii05.github.io/calculator/
+
 A simple calculator built using HTML, CSS, and JavaScript.
 
 ## Features
